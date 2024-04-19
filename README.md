@@ -14,8 +14,8 @@ This project is an Arduino-based air quality monitor that measures air quality, 
 1. Connect the DHT11 sensor to digital pin 2 of the Arduino board.
 2. Connect the analog gas sensor to analog pin A0 of the Arduino board.
 3. Connect the digital light sensor to digital pin 8 of the Arduino board.
-4. Connect the SSD1306 OLED display to the Arduino board according to the specified pin configurations.
-5. Upload the provided Arduino code (`air_quality_monitor.ino`) to your Arduino board.
+4. Connect the 0.96 inch  OLED display to the Arduino board according to the specified pin configurations.
+5. Upload the provided Arduino code  to your Arduino board.
 
 ## Usage
 
