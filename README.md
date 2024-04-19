@@ -1,4 +1,4 @@
-# Air ,Humidity, and Temperature Quality Monitor
+# Air, Humidity , Light and Temperature Quality Monitor
 
 This project is an Arduino-based air quality monitor that measures air quality, temperature, humidity, and detects light presence. It utilizes a DHT11 sensor for temperature and humidity readings, an analog gas sensor for air quality monitoring, and a digital light sensor to detect light presence.
 
